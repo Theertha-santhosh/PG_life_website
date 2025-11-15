@@ -11,16 +11,16 @@ The platform provides information such as property photos, pricing, amenities, l
 - Search PGs based on city.
 - Filter by price, facilities, and room type.
 
-### 🏠 Property Details Page
+###  Property Details Page
 - Shows images, pricing, address, facilities, and testimonials.
 - Displays amenities such as WiFi, food availability, security, and parking.
 
-### 👤 User Module
+###  User Module
 - User signup and login using PHP & SQL.
 - Dashboard to manage user details.
 - Ability to shortlist/favorite PGs.
 
-### 🛠 Admin Module
+###  Admin Module
 - Add, edit, and delete PG listings.
 - Manage amenities and user records.
 
